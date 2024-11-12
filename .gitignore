@@ -1,3 +1,4 @@
+.env
 
 # Flyway ignores
 *.user.toml
